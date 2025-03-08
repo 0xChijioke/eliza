@@ -98,3 +98,6 @@ ton_nft_metadata/*
 
 ton_nft_images/
 ton_nft_images/*
+temp_auto_push.bat
+temp_interactive_push.bat
+branch_structure.json
